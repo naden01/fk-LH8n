@@ -6,7 +6,7 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/LH8n.mk
+    $(LOCAL_DIR)/twrp_LH8n.mk
 
 COMMON_LUNCH_CHOICES := \
     twrp_LH8n-user \
